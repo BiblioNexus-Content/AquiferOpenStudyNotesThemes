@@ -86,18 +86,21 @@
         {
           "reference_id": 10320,
           "content_id": 11152,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 20:3-17",
           "language": "eng"
         },
         {
           "reference_id": 10376,
           "content_id": 11208,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 25:1-40.38",
           "language": "eng"
         },
         {
           "reference_id": 19233,
           "content_id": 20065,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:1-7:38",
           "language": "eng"
         }
